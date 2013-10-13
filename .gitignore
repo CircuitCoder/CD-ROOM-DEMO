@@ -1,0 +1,8 @@
+#Maven!
+/build
+/target
+
+#We use Eclipse!
+/.classpath
+/.project
+/.settings
